@@ -1,9 +1,5 @@
 
----
 
-### README לפרויקט השני: **CNN for Fashion MNIST Classification**
-
-```markdown
 # CNN for Fashion MNIST Classification
 
 ## Overview
